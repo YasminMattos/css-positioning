@@ -1,0 +1,25 @@
+h1, h3 {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+#box_1 {
+  margin: auto;
+	position: absolute;
+	right: 600px;
+  bottom: 150px;
+	width: 200px;
+	height: 200px;
+	background: #ee3e64;
+}
+
+#box_2 {
+  margin: auto;
+	position: absolute;
+	right: 520px;
+  bottom: 160px;
+	width: 200px;
+	height: 200px;
+	background: #44accf;
+}

@@ -1,0 +1,16 @@
+.history {
+  display: block;
+  width: 70%;
+  margin: auto;
+}
+
+.acme {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #f95b34;
+}
+.acme p {
+  margin-left: 210px;
+}
